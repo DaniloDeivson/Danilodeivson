@@ -1,6 +1,7 @@
 # 👩🏻‍💻 Danilo D. Alcantara
 
-**`Desenvolvedor Full Stack | Software Engineer | Query Automation | N8N | SAAS | ERP`**
+**`Full Stack Developer | Software Engineer | Query Automation | N8N | SAAS | ERP`**
+**`Desenvolvedor Full Stack | Engenheiro de Software | Automações de Tarefas | Sistemas`**
 
 Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas Gerais.
 Atualmente, estou cursando Engenharia de Software aplicada à Ciência de Dados no IFRS. Apaixonado por tecnologia e compartilhar meu conhecimento.
