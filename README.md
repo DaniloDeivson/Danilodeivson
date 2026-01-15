@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas Gerais - 🇧🇷. 
+Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas Gerais.
 Atualmente, estou cursando Engenharia de Software aplicada à Ciência de Dados no IFRS. Apaixonado por tecnologia e compartilhar meu conhecimento.
 
 <p align="left">
