@@ -1,4 +1,4 @@
-<img width="845" height="440" alt="image" src="https://github.com/user-attachments/assets/a95c4ebf-d690-4685-9952-464437928f58" /># 👩🏻‍💻 Danilo Santos
+# 👩🏻‍💻 Danilo Santos
 
 **`Desenvolvedor FullStack`**
 
@@ -151,5 +151,4 @@ Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas G
 </div>
 
 <!-- For canvas -->
-<img width="845" height="440" alt="image" src="https://github.com/user-attachments/assets/e4f36f90-a6d4-4d5c-886f-e21ad3ca730b" />
-
+<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
