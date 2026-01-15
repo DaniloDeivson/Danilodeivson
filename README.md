@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Danilo Santos
+<img width="845" height="440" alt="image" src="https://github.com/user-attachments/assets/a95c4ebf-d690-4685-9952-464437928f58" /># 👩🏻‍💻 Danilo Santos
 
 **`Desenvolvedor FullStack`**
 
@@ -140,7 +140,7 @@ Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas G
 
 ## 
 ###
-
+<!-- Link -->
 <div align="center">
     <a href="https://www.linkedin.com/in/daniloalcantarads/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
@@ -151,7 +151,5 @@ Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas G
 </div>
 
 <!-- For canvas -->
-<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
-    width="800" height="600" frameborder="0"></iframe>
-<!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=DaniloDeivson" />
+<img width="845" height="440" alt="image" src="https://github.com/user-attachments/assets/e4f36f90-a6d4-4d5c-886f-e21ad3ca730b" />
+
