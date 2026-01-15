@@ -1,10 +1,15 @@
 # 👩🏻‍💻 Danilo D. Alcantara
 
-**`Full Stack Developer | Software Engineer | Query Automation | N8N | SAAS | ERP`**
 **`Desenvolvedor Full Stack | Engenheiro de Software | Automações de Tarefas | Sistemas`**
 
-Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas Gerais.
+Me chamo Danilo Alcantara, tenho 24 anos e sou natural de Belo Horizonte em Minas Gerais.
 Atualmente, estou cursando Engenharia de Software aplicada à Ciência de Dados no IFRS. Apaixonado por tecnologia e compartilhar meu conhecimento.
+---
+**`Full Stack Developer | Software Engineer | Query Automation | N8N | SAAS | ERP`**
+
+My name is Danilo Alcantara, 24 years old born in Belo Horizonte, Minas Gerais - Brazil.
+At time, im coursing Software Engineer applicated on DataSciente, from IFRS. A lover for tecnology and share my knowledge.  
+
 
 <p align="left">
     <a href="https://github.com/DaniloDeivson?tab=repositories&sort=stargazers">
