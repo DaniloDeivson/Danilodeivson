@@ -151,4 +151,8 @@ Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas G
 </div>
 
 <!-- For canvas -->
+<picture>
 <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+
