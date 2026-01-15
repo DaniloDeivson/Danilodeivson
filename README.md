@@ -146,6 +146,6 @@ Me chamo Danilo Santos, tenho 24 anos e sou natural de Belo Horizonte em Minas G
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
      <a href="[https://www.linkedin.com/in/daniloalcantarads/](https://discord.gg/Awwg5hwk)">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  /></a>
-  <a href="https://dev.to/danilodeivson"
+  <a href="https://dev.to/danilodeivson">
   <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  /></a>
 </div>
