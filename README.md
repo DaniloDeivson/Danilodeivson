@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Danilo D. Alcantara
 
-**`Desenvolvedor Full Stack • Engenheiro de Software • Automações • Sistemas • Ciência de Dados`**
+**`Desenvolvedor Full Stack • Engenheiro de Software • Automações em Sistemas • Ciência de Dados • Ciber Segurança`**
 
 Sou o Danilo Alcantara, tenho 24 anos e sou natural de Belo Horizonte, Minas Gerais.  
 Atualmente curso **Engenharia de Software aplicada à Ciência de Dados** no **IFRS**.  
@@ -10,7 +10,7 @@ Atuo com desenvolvimento Full Stack, automação de processos e soluções orien
 
 ## 🌎 About me (EN)
 
-**`Full Stack Developer • Software Engineer • Query & Task Automation • N8N • SaaS • ERP • Data Science`**
+**`Full Stack Developer • Software Engineer • System Automatization •  Data Science • Cyber Security`**
 
 My name is Danilo Alcantara, 24 years old born in Belo Horizonte, Minas Gerais - Brazil.  
 At time, im coursing Software Engineer applicated on DataSciente, from IFRS.  
